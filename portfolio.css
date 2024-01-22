@@ -1,0 +1,22 @@
+.banner{
+    background-image: url(/portfolio/images/bannerimage.jpg); 
+    padding:230px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.skills-padding{
+    padding:70px 0;
+}
+
+.banner2{
+    background-image: url(); 
+    padding:30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#skills{
+    background-color: darkblue;
+}
+

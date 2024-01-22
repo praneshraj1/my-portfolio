@@ -1,6 +1,6 @@
-.banner{
-    background-image: url(./images/bannerimage.jpg); 
-    padding:230px;
+.banner {
+    background-image: url(./images/bannerimage.jpg);
+    padding: 230px;
     background-size: cover;
     background-repeat: no-repeat;
 }
